@@ -23,7 +23,7 @@ npm install --save-dev @nomicfoundation/hardhat-toolbox
 ```bash
 npx hardhat
 ```
-- Keep pressing `Enter`
+- Keep pressing. `Enter`
 ```bash
 rm package.json
 ```
